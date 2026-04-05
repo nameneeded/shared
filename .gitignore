@@ -10,3 +10,11 @@ venv/
 
 # Mac
 .DS_Store
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+*.egg-info/
