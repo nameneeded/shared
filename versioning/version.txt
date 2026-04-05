@@ -1,0 +1,6 @@
+semver: 0.1.0
+long_sha: 
+short_sha: 
+internal_build: 
+version: 
+display_version: 
